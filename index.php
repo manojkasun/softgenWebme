@@ -3,15 +3,12 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="uza - Model Agency HTML5 Template">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Title -->
-    <title>Uza - Creative Agency HTML5 Template</title>
+    <title>SoftGen LK</title>
 
     <!-- Favicon -->
-    <link rel="icon" href="./img/core-img/favicon.ico">
+    <link rel="icon" href="./img/core-img/favicon.png">
 
     <!-- Core Stylesheet -->
     <link rel="stylesheet" href="style.css">
@@ -26,26 +23,7 @@
         </div>
     </div>
 
-    <!-- ***** Top Search Area Start ***** -->
-    <div class="top-search-area">
-        <!-- Search Modal -->
-        <div class="modal fade" id="searchModal" tabindex="-1" role="dialog" aria-hidden="true">
-            <div class="modal-dialog modal-dialog-centered" role="document">
-                <div class="modal-content">
-                    <div class="modal-body">
-                        <!-- Close Button -->
-                        <button type="button" class="btn close-btn" data-dismiss="modal"><i class="fa fa-times"></i></button>
-                        <!-- Form -->
-                        <form action="index.html" method="post">
-                            <input type="search" name="top-search-bar" class="form-control" placeholder="Search and hit enter...">
-                            <button type="submit">Search</button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- ***** Top Search Area End ***** -->
+
 
     <!-- ***** Header Area Start ***** -->
     <header class="header-area">
@@ -56,7 +34,7 @@
                 <nav class="classy-navbar justify-content-between" id="uzaNav">
 
                     <!-- Logo -->
-                    <a class="nav-brand" href="index.html"><img src="./img/core-img/logo.png" alt=""></a>
+                    <a class="nav-brand" href="index.php"><img src="./img/core-img/logo.png" width="70%" alt=""></a>
 
                     <!-- Navbar Toggler -->
                     <div class="classy-navbar-toggler">
@@ -73,59 +51,20 @@
                         <!-- Nav Start -->
                         <div class="classynav">
                             <ul id="nav">
-                                <li class="current-item"><a href="./index.html">Home</a></li>
-                                <li><a href="#">Pages</a>
-                                    <ul class="dropdown">
-                                        <li><a href="./index.html">- Home</a></li>
-                                        <li><a href="./about.html">- About</a></li>
-                                        <li><a href="./services.html">- Services</a></li>
-                                        <li><a href="./portfolio.html">- Portfolio</a></li>
-                                        <li><a href="./portfolio-single.html">- Single Portfolio</a></li>
-                                        <li><a href="./blog.html">- Blog</a></li>
-                                        <li><a href="./single-blog.html">- Blog Details</a></li>
-                                        <li><a href="./contact.html">- Contact</a></li>
-                                        <li><a href="#">- Dropdown</a>
-                                            <ul class="dropdown">
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                                <li><a href="#">- Dropdown Item</a>
-                                                    <ul class="dropdown">
-                                                        <li><a href="#">- Even Dropdown</a></li>
-                                                        <li><a href="#">- Even Dropdown</a></li>
-                                                        <li><a href="#">- Even Dropdown</a></li>
-                                                        <li><a href="#">- Even Dropdown</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li><a href="./portfolio.html">Portfolio</a></li>
-                                <li><a href="./about.html">About</a></li>
-                                <li><a href="#">Blog</a>
-                                    <ul class="dropdown">
-                                        <li><a href="./blog.html">- Blog</a></li>
-                                        <li><a href="./single-blog.html">- Blog Details</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="./contact.html">Contact</a></li>
+                                <li class="current-item"><a href="./index.php">Home</a></li>
+                               
+                                <li><a href="./portfolio.php">Portfolio</a></li>
+                                <li><a href="./about.php">About</a></li>
+                               
+                                <li><a href="./contact.php">Contact</a></li>
                             </ul>
 
                             <!-- Get A Quote -->
                             <div class="get-a-quote ml-4 mr-3">
-                                <a href="#" class="btn uza-btn">Get A Quote</a>
+                                <a href="./Account/signup.php" class="btn uza-btn">My Account</a>
                             </div>
 
-                            <!-- Login / Register -->
-                            <div class="login-register-btn mx-3">
-                                <a href="#">Login <span>/ Register</span></a>
-                            </div>
-
-                            <!-- Search Icon -->
-                            <div class="search-icon" data-toggle="modal" data-target="#searchModal">
-                                <i class="icon_search"></i>
-                            </div>
+                          
                         </div>
                         <!-- Nav End -->
 
@@ -154,9 +93,9 @@
                             <!-- Welcome Text -->
                             <div class="col-12 col-md-6">
                                 <div class="welcome-text">
-                                    <h2 data-animation="fadeInUp" data-delay="100ms">Uza makes your <br> biz <span>greater</span></h2>
-                                    <h5 data-animation="fadeInUp" data-delay="400ms">We love to create "cool" things on Digital Platforms</h5>
-                                    <a href="#" class="btn uza-btn btn-2" data-animation="fadeInUp" data-delay="700ms">Start Exploring</a>
+                                    <h2 data-animation="fadeInUp" data-delay="100ms">We make real <br> your <span>IDEAS</span></h2>
+                                    <h5 data-animation="fadeInUp" data-delay="400ms">We are Develop Websites, Android and Windows Applications with Guarantee</h5>
+                                    <a href="#" class="btn uza-btn btn-2" data-animation="fadeInUp" data-delay="700ms">See Our Privious Works</a>
                                 </div>
                             </div>
                             <!-- Welcome Thumbnail -->
@@ -192,7 +131,7 @@
                             <!-- Welcome Thumbnail -->
                             <div class="col-12 col-md-6">
                                 <div class="welcome-thumbnail">
-                                    <img src="./img/bg-img/1.png" alt="" data-animation="slideInRight" data-delay="400ms">
+                                    <img src="./img/bg-img/2.png" alt="" data-animation="slideInRight" data-delay="400ms">
                                 </div>
                             </div>
                         </div>
@@ -214,7 +153,7 @@
                             <!-- Welcome Text -->
                             <div class="col-12 col-md-6">
                                 <div class="welcome-text">
-                                    <h2 data-animation="fadeInUp" data-delay="100ms">Uza makes your <br> biz <span>greater</span></h2>
+                                    <h2 data-animation="fadeInUp" data-delay="100ms">Full Responsive  <br> For <span>Any Device</span></h2>
                                     <h5 data-animation="fadeInUp" data-delay="400ms">We love to create "cool" things on Digital Platforms</h5>
                                     <a href="#" class="btn uza-btn btn-2" data-animation="fadeInUp" data-delay="700ms">Start Exploring</a>
                                 </div>
@@ -222,7 +161,7 @@
                             <!-- Welcome Thumbnail -->
                             <div class="col-12 col-md-6">
                                 <div class="welcome-thumbnail">
-                                    <img src="./img/bg-img/1.png" alt="" data-animation="slideInRight" data-delay="400ms">
+                                    <img src="./img/bg-img/3.png" alt="" data-animation="slideInRight" data-delay="400ms">
                                 </div>
                             </div>
                         </div>
