@@ -3,15 +3,12 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="uza - Model Agency HTML5 Template">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Title -->
-    <title>Uza - Creative Agency HTML5 Template</title>
+    <title>SoftGen LK</title>
 
     <!-- Favicon -->
-    <link rel="icon" href="./img/core-img/favicon.ico">
+    <link rel="icon" href="./img/core-img/favicon.png">
 
     <!-- Core Stylesheet -->
     <link rel="stylesheet" href="style.css">
@@ -26,26 +23,7 @@
         </div>
     </div>
 
-    <!-- ***** Top Search Area Start ***** -->
-    <div class="top-search-area">
-        <!-- Search Modal -->
-        <div class="modal fade" id="searchModal" tabindex="-1" role="dialog" aria-hidden="true">
-            <div class="modal-dialog modal-dialog-centered" role="document">
-                <div class="modal-content">
-                    <div class="modal-body">
-                        <!-- Close Button -->
-                        <button type="button" class="btn close-btn" data-dismiss="modal"><i class="fa fa-times"></i></button>
-                        <!-- Form -->
-                        <form action="index.html" method="post">
-                            <input type="search" name="top-search-bar" class="form-control" placeholder="Search and hit enter...">
-                            <button type="submit">Search</button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- ***** Top Search Area End ***** -->
+
 
     <!-- ***** Header Area Start ***** -->
     <header class="header-area">
@@ -56,7 +34,7 @@
                 <nav class="classy-navbar justify-content-between" id="uzaNav">
 
                     <!-- Logo -->
-                    <a class="nav-brand" href="index.html"><img src="./img/core-img/logo.png" alt=""></a>
+                    <a class="nav-brand" href="index.php"><img src="./img/core-img/logo.png" width="70%" alt=""></a>
 
                     <!-- Navbar Toggler -->
                     <div class="classy-navbar-toggler">
@@ -73,59 +51,20 @@
                         <!-- Nav Start -->
                         <div class="classynav">
                             <ul id="nav">
-                                <li><a href="./index.html">Home</a></li>
-                                <li><a href="#">Pages</a>
-                                    <ul class="dropdown">
-                                        <li><a href="./index.html">- Home</a></li>
-                                        <li><a href="./about.html">- About</a></li>
-                                        <li><a href="./services.html">- Services</a></li>
-                                        <li><a href="./portfolio.html">- Portfolio</a></li>
-                                        <li><a href="./portfolio-single.html">- Single Portfolio</a></li>
-                                        <li><a href="./blog.html">- Blog</a></li>
-                                        <li><a href="./single-blog.html">- Blog Details</a></li>
-                                        <li><a href="./contact.html">- Contact</a></li>
-                                        <li><a href="#">- Dropdown</a>
-                                            <ul class="dropdown">
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                                <li><a href="#">- Dropdown Item</a>
-                                                    <ul class="dropdown">
-                                                        <li><a href="#">- Even Dropdown</a></li>
-                                                        <li><a href="#">- Even Dropdown</a></li>
-                                                        <li><a href="#">- Even Dropdown</a></li>
-                                                        <li><a href="#">- Even Dropdown</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                                <li><a href="#">- Dropdown Item</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li><a href="./portfolio.html">Portfolio</a></li>
-                                <li class="current-item"><a href="./about.html">About</a></li>
-                                <li><a href="#">Blog</a>
-                                    <ul class="dropdown">
-                                        <li><a href="./blog.html">- Blog</a></li>
-                                        <li><a href="./single-blog.html">- Blog Details</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="./contact.html">Contact</a></li>
+                                <li><a href="./index.php">Home</a></li>
+                               
+                                <li><a href="./portfolio.php">Portfolio</a></li>
+                                <li  class="current-item"><a href="./about.php">About</a></li>
+                               
+                                <li><a href="./contact.php">Contact</a></li>
                             </ul>
 
                             <!-- Get A Quote -->
                             <div class="get-a-quote ml-4 mr-3">
-                                <a href="#" class="btn uza-btn">Get A Quote</a>
+                                <a href="./Account/signup.php" class="btn uza-btn">My Account</a>
                             </div>
 
-                            <!-- Login / Register -->
-                            <div class="login-register-btn mx-3">
-                                <a href="#">Login <span>/ Register</span></a>
-                            </div>
-
-                            <!-- Search Icon -->
-                            <div class="search-icon" data-toggle="modal" data-target="#searchModal">
-                                <i class="icon_search"></i>
-                            </div>
+                          
                         </div>
                         <!-- Nav End -->
 
@@ -168,7 +107,7 @@
                 <!-- About Thumbnail -->
                 <div class="col-12 col-lg-6">
                     <div class="about-us-thumbnail mb-80">
-                        <img src="./img/bg-img/2.jpg" alt="">
+                        <img src="./img/bg-img/about.png" alt="">
                         <!-- Video Area -->
                         <div class="uza-video-area hi-icon-effect-8">
                             <a href="https://www.youtube.com/watch?v=sSakBz_eYzQ" class="hi-icon video-play-btn"><i class="fa fa-play" aria-hidden="true"></i></a>
@@ -179,20 +118,20 @@
                 <!-- About Us Content -->
                 <div class="col-12 col-lg-6">
                     <div class="section-heading mb-5">
-                        <h2>Our Mission</h2>
+                        <h2>About SoftGen LK</h2>
                     </div>
 
                     <div class="about-us-content mb-80">
                         <div class="about-tab-area">
                             <ul class="nav nav-tabs mb-50" id="mona_modelTab" role="tablist">
                                 <li class="nav-item">
-                                    <a class="nav-link active" id="tab1" data-toggle="tab" href="#tab-1" role="tab" aria-controls="tab-1" aria-selected="true">CREATION</a>
+                                    <a class="nav-link active" id="tab1" data-toggle="tab" href="#tab-1" role="tab" aria-controls="tab-1" aria-selected="true">ABOUT US</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" id="tab2" data-toggle="tab" href="#tab-2" role="tab" aria-controls="tab-2" aria-selected="false"> ANALYSIS</a>
+                                    <a class="nav-link" id="tab2" data-toggle="tab" href="#tab-2" role="tab" aria-controls="tab-2" aria-selected="false">THE GOAL</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" id="tab3" data-toggle="tab" href="#tab-3" role="tab" aria-controls="tab-3" aria-selected="false">STRATEGY</a>
+                                    <a class="nav-link" id="tab3" data-toggle="tab" href="#tab-3" role="tab" aria-controls="tab-3" aria-selected="false">OUR SERVICES</a>
                                 </li>
                             </ul>
                         </div>
@@ -203,27 +142,28 @@
                                 <div class="tab-pane fade show active" id="tab-1" role="tabpanel" aria-labelledby="tab1">
                                     <!-- Tab Content Text -->
                                     <div class="tab-content-text">
-                                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing esed diam nonumy eirmod tempor invidunt ut labore et dolore magna.</p>
-                                        <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet gubergren no sea takimata sanctus est Lorem ipsum dolor sit amet ipsumlor eut consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt labore et dolore magna liquyam erat.</p>
-                                        <a href="#" class="btn uza-btn mt-30">Get In Touch</a>
+                                        <p>We are a newly opened software engineering company.<br> Known as Softgen LK.</p>
+                                        <p>We all  graduate software engineers. We have a lot of experience in this industry. You can view our sample projects in our portfolio.   </p>
+                                        <p>We are from Sri Lanka. We connect with our clients on Facebook, Fiverr, and Instagram. We do your projects at a reasonable price. We are very open with our clients. No secrets are working. You are free to request anything from us.  </p>
+                                        <a href="./portfolio.php" class="btn uza-btn mt-30">Get In Touch</a>
                                     </div>
                                 </div>
 
                                 <div class="tab-pane fade" id="tab-2" role="tabpanel" aria-labelledby="tab2">
                                     <!-- Tab Content Text -->
                                     <div class="tab-content-text">
-                                        <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet gubergren no sea takimata sanctus est Lorem ipsum dolor sit amet ipsumlor eut consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt labore et dolore magna liquyam erat.</p>
-                                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing esed diam nonumy eirmod tempor invidunt ut labore et dolore magna.</p>
-                                        <a href="#" class="btn uza-btn mt-30">Get In Touch</a>
+                                        <p>Our main goal is to please our clients.</p>
+                                        <p>We are here because of our clients. We will never forget it. We want to give our best to our clients every day. And We certainly do. We never sell our clients products again. All our project screenshots have a watermark. We are committed to protecting your ideas and projects. You can provide your feedback via Fiverr, Facebook, and thisSite.</p>
+                                        <a href="https://www.fiverr.com/users/manojkasun96/manage_gigs" class="btn uza-btn mt-30">Our Fiverr Gigs</a>
                                     </div>
                                 </div>
 
                                 <div class="tab-pane fade" id="tab-3" role="tabpanel" aria-labelledby="tab3">
                                     <!-- Tab Content Text -->
                                     <div class="tab-content-text">
-                                        <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet gubergren no sea takimata. Lorem ipsum dolor sit amet, consetetur sadipscing esed diam nonumy eirmod tempor invidunt ut labore et dolore magna.</p>
-                                        <p>sanctus est Lorem ipsum dolor sit amet ipsumlor eut consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt labore et dolore magna liquyam erat.</p>
-                                        <a href="#" class="btn uza-btn mt-30">Get In Touch</a>
+                                        <p>We are develop Web Applications using PHP, Laravel and PHP, JSP or Angular , Android apps using the Flutter and Desktop apps using java or C#.Those  Your projects are developed under HCI and security principles.</p>
+                                        <p>We provide many services for you. Depending on your package you will receive maintenance upgrades for free. We provide a guarantee for each of our products. We will respond to your messages as soon as possible. (Within 24 hours). We provide you with source code and it depends on your package.</p>
+                                        <a href="https://www.fiverr.com/users/manojkasun96/manage_gigs" class="btn uza-btn mt-30">Our Fiverr Gigs</a>
                                     </div>
                                 </div>
                             </div>
@@ -291,157 +231,27 @@
                 <!-- Team Member Slides -->
                 <div class="team-sildes owl-carousel">
 
-                    <!-- Single Team Slide -->
-                    <div class="single-team-slide">
-                        <img src="./img/bg-img/18.jpg" alt="">
-                        <!-- Overlay Effect -->
-                        <div class="overlay-effect">
-                            <h6>DESIGNER</h6>
-                            <h4>Roger Black</h4>
-                            <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet gubergren no sea takimata sanctus est.</p>
-                        </div>
-                        <!-- Social Info -->
-                        <div class="team-social-info">
-                            <a href="#" class="facebook" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a>
-                            <a href="#" class="twitter" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a>
-                            <a href="#" class="pinterest" data-toggle="tooltip" data-placement="top" title="Pinterest"><i class="fa fa-pinterest"></i></a>
-                            <a href="#" class="instagram" data-toggle="tooltip" data-placement="top" title="Instagram"><i class="fa fa-instagram"></i></a>
-                            <a href="#" class="youtube" data-toggle="tooltip" data-placement="top" title="YouTube"><i class="fa fa-youtube-play"></i></a>
-                        </div>
-                    </div>
+               
 
                     <!-- Single Team Slide -->
                     <div class="single-team-slide">
-                        <img src="./img/bg-img/19.jpg" alt="">
+                        <img src="./img/core-img/me.jpg" alt="">
                         <!-- Overlay Effect -->
                         <div class="overlay-effect">
-                            <h6>DESIGNER</h6>
-                            <h4>Roger Black</h4>
-                            <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet gubergren no sea takimata sanctus est.</p>
+                            <h6>DEVELOPER DESIGNER</h6>
+                            <h4>Manoj Priya Kasun</h4>
+                            <p>Graduated Software Engineer</p>
                         </div>
                         <!-- Social Info -->
                         <div class="team-social-info">
-                            <a href="#" class="facebook" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a>
-                            <a href="#" class="twitter" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a>
-                            <a href="#" class="pinterest" data-toggle="tooltip" data-placement="top" title="Pinterest"><i class="fa fa-pinterest"></i></a>
-                            <a href="#" class="instagram" data-toggle="tooltip" data-placement="top" title="Instagram"><i class="fa fa-instagram"></i></a>
-                            <a href="#" class="youtube" data-toggle="tooltip" data-placement="top" title="YouTube"><i class="fa fa-youtube-play"></i></a>
+                            <a href="https://www.facebook.com/manoj.kasun.18" class="facebook" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a>
+                            <a href="https://www.linkedin.com/in/manoj-kasun-6bb353b9/" class="twitter" data-toggle="tooltip" data-placement="top" title="LinkedIn"><i class="fa fa-linkedin"></i></a>
+
+                            <a href="https://www.instagram.com/manojpriyakasun/?hl=en" class="instagram" data-toggle="tooltip" data-placement="top" title="Instagram"><i class="fa fa-instagram"></i></a>
                         </div>
                     </div>
 
-                    <!-- Single Team Slide -->
-                    <div class="single-team-slide">
-                        <img src="./img/bg-img/20.jpg" alt="">
-                        <!-- Overlay Effect -->
-                        <div class="overlay-effect">
-                            <h6>DESIGNER</h6>
-                            <h4>Roger Black</h4>
-                            <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet gubergren no sea takimata sanctus est.</p>
-                        </div>
-                        <!-- Social Info -->
-                        <div class="team-social-info">
-                            <a href="#" class="facebook" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a>
-                            <a href="#" class="twitter" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a>
-                            <a href="#" class="pinterest" data-toggle="tooltip" data-placement="top" title="Pinterest"><i class="fa fa-pinterest"></i></a>
-                            <a href="#" class="instagram" data-toggle="tooltip" data-placement="top" title="Instagram"><i class="fa fa-instagram"></i></a>
-                            <a href="#" class="youtube" data-toggle="tooltip" data-placement="top" title="YouTube"><i class="fa fa-youtube-play"></i></a>
-                        </div>
-                    </div>
-
-                    <!-- Single Team Slide -->
-                    <div class="single-team-slide">
-                        <img src="./img/bg-img/21.jpg" alt="">
-                        <!-- Overlay Effect -->
-                        <div class="overlay-effect">
-                            <h6>DESIGNER</h6>
-                            <h4>Roger Black</h4>
-                            <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet gubergren no sea takimata sanctus est.</p>
-                        </div>
-                        <!-- Social Info -->
-                        <div class="team-social-info">
-                            <a href="#" class="facebook" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a>
-                            <a href="#" class="twitter" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a>
-                            <a href="#" class="pinterest" data-toggle="tooltip" data-placement="top" title="Pinterest"><i class="fa fa-pinterest"></i></a>
-                            <a href="#" class="instagram" data-toggle="tooltip" data-placement="top" title="Instagram"><i class="fa fa-instagram"></i></a>
-                            <a href="#" class="youtube" data-toggle="tooltip" data-placement="top" title="YouTube"><i class="fa fa-youtube-play"></i></a>
-                        </div>
-                    </div>
-
-                    <!-- Single Team Slide -->
-                    <div class="single-team-slide">
-                        <img src="./img/bg-img/18.jpg" alt="">
-                        <!-- Overlay Effect -->
-                        <div class="overlay-effect">
-                            <h6>DESIGNER</h6>
-                            <h4>Roger Black</h4>
-                            <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet gubergren no sea takimata sanctus est.</p>
-                        </div>
-                        <!-- Social Info -->
-                        <div class="team-social-info">
-                            <a href="#" class="facebook" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a>
-                            <a href="#" class="twitter" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a>
-                            <a href="#" class="pinterest" data-toggle="tooltip" data-placement="top" title="Pinterest"><i class="fa fa-pinterest"></i></a>
-                            <a href="#" class="instagram" data-toggle="tooltip" data-placement="top" title="Instagram"><i class="fa fa-instagram"></i></a>
-                            <a href="#" class="youtube" data-toggle="tooltip" data-placement="top" title="YouTube"><i class="fa fa-youtube-play"></i></a>
-                        </div>
-                    </div>
-
-                    <!-- Single Team Slide -->
-                    <div class="single-team-slide">
-                        <img src="./img/bg-img/19.jpg" alt="">
-                        <!-- Overlay Effect -->
-                        <div class="overlay-effect">
-                            <h6>DESIGNER</h6>
-                            <h4>Roger Black</h4>
-                            <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet gubergren no sea takimata sanctus est.</p>
-                        </div>
-                        <!-- Social Info -->
-                        <div class="team-social-info">
-                            <a href="#" class="facebook" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a>
-                            <a href="#" class="twitter" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a>
-                            <a href="#" class="pinterest" data-toggle="tooltip" data-placement="top" title="Pinterest"><i class="fa fa-pinterest"></i></a>
-                            <a href="#" class="instagram" data-toggle="tooltip" data-placement="top" title="Instagram"><i class="fa fa-instagram"></i></a>
-                            <a href="#" class="youtube" data-toggle="tooltip" data-placement="top" title="YouTube"><i class="fa fa-youtube-play"></i></a>
-                        </div>
-                    </div>
-
-                    <!-- Single Team Slide -->
-                    <div class="single-team-slide">
-                        <img src="./img/bg-img/20.jpg" alt="">
-                        <!-- Overlay Effect -->
-                        <div class="overlay-effect">
-                            <h6>DESIGNER</h6>
-                            <h4>Roger Black</h4>
-                            <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet gubergren no sea takimata sanctus est.</p>
-                        </div>
-                        <!-- Social Info -->
-                        <div class="team-social-info">
-                            <a href="#" class="facebook" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a>
-                            <a href="#" class="twitter" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a>
-                            <a href="#" class="pinterest" data-toggle="tooltip" data-placement="top" title="Pinterest"><i class="fa fa-pinterest"></i></a>
-                            <a href="#" class="instagram" data-toggle="tooltip" data-placement="top" title="Instagram"><i class="fa fa-instagram"></i></a>
-                            <a href="#" class="youtube" data-toggle="tooltip" data-placement="top" title="YouTube"><i class="fa fa-youtube-play"></i></a>
-                        </div>
-                    </div>
-
-                    <!-- Single Team Slide -->
-                    <div class="single-team-slide">
-                        <img src="./img/bg-img/21.jpg" alt="">
-                        <!-- Overlay Effect -->
-                        <div class="overlay-effect">
-                            <h6>DESIGNER</h6>
-                            <h4>Roger Black</h4>
-                            <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet gubergren no sea takimata sanctus est.</p>
-                        </div>
-                        <!-- Social Info -->
-                        <div class="team-social-info">
-                            <a href="#" class="facebook" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a>
-                            <a href="#" class="twitter" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a>
-                            <a href="#" class="pinterest" data-toggle="tooltip" data-placement="top" title="Pinterest"><i class="fa fa-pinterest"></i></a>
-                            <a href="#" class="instagram" data-toggle="tooltip" data-placement="top" title="Instagram"><i class="fa fa-instagram"></i></a>
-                            <a href="#" class="youtube" data-toggle="tooltip" data-placement="top" title="YouTube"><i class="fa fa-youtube-play"></i></a>
-                        </div>
-                    </div>
+      
 
                 </div>
             </div>
@@ -452,123 +262,7 @@
             <div class="border-line mt-80"></div>
         </div>
     </section>
-    <!-- ***** Team Member Area End ***** -->
-
-    <!-- ***** CTA Area Start ***** -->
-    <div class="uza-cta-area">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-12 col-lg-8">
-                    <div class="cta-content mb-80">
-                        <h2>Interested in working with us?</h2>
-                        <h6>Hit the button below or give us a call!</h6>
-                    </div>
-                </div>
-
-                <div class="col-12 col-lg-4">
-                    <div class="cta-content mb-80">
-                        <div class="call-now-btn">
-                            <a href="#"><span>Call us now:</span> (+65) 1234 5678</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- ***** CTA Area End ***** -->
-
-    <!-- ***** Client Feedback Area Start ***** -->
-    <div class="clients-feedback-area section-padding-0-80 clearfix">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <!-- Testimonial Slides -->
-                    <div class="testimonial-slides owl-carousel">
-
-                        <!-- Single Testimonial Slide -->
-                        <div class="single-testimonial-slide d-flex align-items-center">
-                            <!-- Testimonial Thumbnail -->
-                            <div class="testimonial-thumbnail">
-                                <img src="./img/bg-img/7.jpg" alt="">
-                            </div>
-                            <!-- Testimonial Content -->
-                            <div class="testimonial-content">
-                                <h4>“Colorlib Ltd’s ranking has gone up so much from the great work that your team has done and our brand get organic sales consistently from your efforts. We are happy that the results of your efforts were lasting and profitable.”</h4>
-                                <!-- Ratings -->
-                                <div class="ratings">
-                                    <i class="icon_star"></i>
-                                    <i class="icon_star"></i>
-                                    <i class="icon_star"></i>
-                                    <i class="icon_star"></i>
-                                    <i class="icon_star"></i>
-                                </div>
-                                <!-- Author Info -->
-                                <div class="author-info">
-                                    <h5>Darrell Goodman <span>- CEO colorlib</span></h5>
-                                </div>
-                                <!-- Quote Icon -->
-                                <div class="quote-icon"><img src="img/core-img/quote.png" alt=""></div>
-                            </div>
-                        </div>
-
-                        <!-- Single Testimonial Slide -->
-                        <div class="single-testimonial-slide d-flex align-items-center">
-                            <!-- Testimonial Thumbnail -->
-                            <div class="testimonial-thumbnail">
-                                <img src="./img/bg-img/23.jpg" alt="">
-                            </div>
-                            <!-- Testimonial Content -->
-                            <div class="testimonial-content">
-                                <h4>“Colorlib Ltd’s ranking has gone up so much from the great work that your team has done and our brand get organic sales consistently from your efforts. We are happy that the results of your efforts were lasting and profitable.”</h4>
-                                <!-- Ratings -->
-                                <div class="ratings">
-                                    <i class="icon_star"></i>
-                                    <i class="icon_star"></i>
-                                    <i class="icon_star"></i>
-                                    <i class="icon_star"></i>
-                                    <i class="icon_star"></i>
-                                </div>
-                                <!-- Author Info -->
-                                <div class="author-info">
-                                    <h5>Darrell Goodman <span>- CEO colorlib</span></h5>
-                                </div>
-                                <!-- Quote Icon -->
-                                <div class="quote-icon"><img src="img/core-img/quote.png" alt=""></div>
-                            </div>
-                        </div>
-
-                        <!-- Single Testimonial Slide -->
-                        <div class="single-testimonial-slide d-flex align-items-center">
-                            <!-- Testimonial Thumbnail -->
-                            <div class="testimonial-thumbnail">
-                                <img src="./img/bg-img/24.jpg" alt="">
-                            </div>
-                            <!-- Testimonial Content -->
-                            <div class="testimonial-content">
-                                <h4>“Colorlib Ltd’s ranking has gone up so much from the great work that your team has done and our brand get organic sales consistently from your efforts. We are happy that the results of your efforts were lasting and profitable.”</h4>
-                                <!-- Ratings -->
-                                <div class="ratings">
-                                    <i class="icon_star"></i>
-                                    <i class="icon_star"></i>
-                                    <i class="icon_star"></i>
-                                    <i class="icon_star"></i>
-                                    <i class="icon_star"></i>
-                                </div>
-                                <!-- Author Info -->
-                                <div class="author-info">
-                                    <h5>Darrell Goodman <span>- CEO colorlib</span></h5>
-                                </div>
-                                <!-- Quote Icon -->
-                                <div class="quote-icon"><img src="img/core-img/quote.png" alt=""></div>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- ***** Client Feedback Area End ***** -->
+  
 
     <!-- ***** Cool Facts Area Start ***** -->
     <div class="uza-cf-area section-padding-80-0">
@@ -624,32 +318,9 @@
     </div>
     <!-- ***** Cool Facts Area End ***** -->
 
-    <!-- ***** Newsletter Area Start ***** -->
-    <section class="uza-newsletter-area">
-        <div class="container">
-            <div class="row align-items-center justify-content-between">
-                <!-- Newsletter Content -->
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="nl-content mb-80">
-                        <h2>Subscribe to our Newsletter</h2>
-                        <p>Subscribe our newsletter gor get notification about new updates, etc...</p>
-                    </div>
-                </div>
-                <!-- Newsletter Form -->
-                <div class="col-12 col-md-6 col-lg-5">
-                    <div class="nl-form mb-80">
-                        <form action="#" method="post">
-                            <input type="email" name="nl-email" value="" placeholder="Your Email">
-                            <button type="submit">Subscribe</button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-            <!-- Border Bottom -->
-            <div class="border-line"></div>
-        </div>
-    </section>
-    <!-- ***** Newsletter Area End ***** -->
+
+   
+ 
 
     <!-- ***** Footer Area Start ***** -->
     <footer class="footer-area section-padding-80-0">
@@ -664,11 +335,11 @@
 
                         <!-- Footer Content -->
                         <div class="footer-content mb-15">
-                            <h3>(+65) 1234 5678</h3>
-                            <p>40 Baria Sreet 13/2 NY City, US <br> hello.colorlib@gmail.com</p>
+                            <h3>(+94) 771544951</h3>
+                            <p>Colombo, Sri Lanka <br>softgenlk@gmail.com</p>
                         </div>
-                        <p class="mb-0">Mon - Fri: 9:00 - 19:00 <br>
-                            Closed on Weekends</p>
+                        <p class="mb-0">24 hour Service <br>
+                        </p>
                     </div>
                 </div>
 
@@ -682,10 +353,8 @@
                         <nav>
                             <ul class="our-link">
                                 <li><a href="#">About Us</a></li>
-                                <li><a href="#">Blog</a></li>
                                 <li><a href="#">Contact Us</a></li>
-                                <li><a href="#">Forum Registeration</a></li>
-                                <li><a href="#">Forum Sign In</a></li>
+                                <li><a href="#">Give Feedback</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -702,8 +371,6 @@
                             <ul class="our-link">
                                 <li><a href="#">Customer Support</a></li>
                                 <li><a href="#">Privacy</a></li>
-                                <li><a href="#">Media &amp; Press</a></li>
-                                <li><a href="#">Our Team</a></li>
                                 <li><a href="#">Contact</a></li>
                             </ul>
                         </nav>
@@ -715,18 +382,18 @@
                     <div class="single-footer-widget mb-80">
                         <!-- Widget Title -->
                         <h4 class="widget-title">About Us</h4>
-                        <p>Integer vehicula mauris libero, at molestie eros imperdiet sit amet.</p>
+                        <p>We are software development company.</p>
 
                         <!-- Copywrite Text -->
                         <div class="copywrite-text mb-30">
-                            <p>&copy; Copyright 2018 <a href="#">Colorlib</a>.</p>
+                            <p>&copy; Copyright 2020 <a href="#">SoftGen LK</a>.</p>
                         </div>
 
                         <!-- Social Info -->
                         <div class="footer-social-info">
-                            <a href="#" class="facebook" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a>
+                            <a href="https://www.facebook.com/softGenLk" class="facebook" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a>
                             <a href="#" class="twitter" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a>
-                            <a href="#" class="pinterest" data-toggle="tooltip" data-placement="top" title="Pinterest"><i class="fa fa-pinterest"></i></a>
+                            <a href="#" class="twitter" data-toggle="tooltip" data-placement="top"  title="Fiverr"><img src="./img/core-img/fiverr.png" style="background-color:white;" alt=""></a>
                             <a href="#" class="instagram" data-toggle="tooltip" data-placement="top" title="Instagram"><i class="fa fa-instagram"></i></a>
                             <a href="#" class="youtube" data-toggle="tooltip" data-placement="top" title="YouTube"><i class="fa fa-youtube-play"></i></a>
                         </div>
@@ -734,15 +401,15 @@
                 </div>
 
             </div>
-            <div class="row" style="margin-bottom: 30px;">
-                
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+
+ <div class="row" style="margin-bottom: 30px;">
+
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | <i class="fa fa-mail-o" aria-hidden="true"></i> by <b>  <a href="#" target="_blank"> SoftGen LK</a></br>
+
             </div>
+
         </div>
     </footer>
-    <!-- ***** Footer Area End ***** -->
 
     <!-- ******* All JS Files ******* -->
     <!-- jQuery js -->

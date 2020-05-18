@@ -93,9 +93,9 @@
                             <!-- Welcome Text -->
                             <div class="col-12 col-md-6">
                                 <div class="welcome-text">
-                                    <h2 data-animation="fadeInUp" data-delay="100ms">We make real <br> your <span>IDEAS</span></h2>
+                                    <h2 data-animation="fadeInUp" data-delay="100ms">We make Your <br> IDEAS <span>Real</span></h2>
                                     <h5 data-animation="fadeInUp" data-delay="400ms">We are Develop Websites, Android and Windows Applications with Guarantee</h5>
-                                    <a href="#" class="btn uza-btn btn-2" data-animation="fadeInUp" data-delay="700ms">See Our Privious Works</a>
+                                    <a href="#" class="btn uza-btn btn-2" data-animation="fadeInUp" data-delay="700ms">See Our Gig</a>
                                 </div>
                             </div>
                             <!-- Welcome Thumbnail -->
@@ -123,9 +123,9 @@
                             <!-- Welcome Text -->
                             <div class="col-12 col-md-6">
                                 <div class="welcome-text">
-                                    <h2 data-animation="fadeInUp" data-delay="100ms">Uza makes your <br> biz <span>greater</span></h2>
-                                    <h5 data-animation="fadeInUp" data-delay="400ms">We love to create "cool" things on Digital Platforms</h5>
-                                    <a href="#" class="btn uza-btn btn-2" data-animation="fadeInUp" data-delay="700ms">Start Exploring</a>
+                                    <h2 data-animation="fadeInUp" data-delay="100ms">Cross Platform Applications <br> Using <span>C++ Qt</span></h2>
+                                    <h5 data-animation="fadeInUp" data-delay="400ms">We develop C++ Cross Platform Applications Using C++ Qt Framework</h5>
+                                    <a href="#" class="btn uza-btn btn-2" data-animation="fadeInUp" data-delay="700ms">See Our Gig</a>
                                 </div>
                             </div>
                             <!-- Welcome Thumbnail -->
@@ -154,8 +154,8 @@
                             <div class="col-12 col-md-6">
                                 <div class="welcome-text">
                                     <h2 data-animation="fadeInUp" data-delay="100ms">Full Responsive  <br> For <span>Any Device</span></h2>
-                                    <h5 data-animation="fadeInUp" data-delay="400ms">We love to create "cool" things on Digital Platforms</h5>
-                                    <a href="#" class="btn uza-btn btn-2" data-animation="fadeInUp" data-delay="700ms">Start Exploring</a>
+                                    <h5 data-animation="fadeInUp" data-delay="400ms">We make Web Sites , Apps (android  & Windows) with Full Responive and According to the HCI Principles</h5>
+                                    <a href="#" class="btn uza-btn btn-2" data-animation="fadeInUp" data-delay="700ms">See Our Gig</a>
                                 </div>
                             </div>
                             <!-- Welcome Thumbnail -->
@@ -192,10 +192,9 @@
                 <!-- About Us Content -->
                 <div class="col-12 col-md-6">
                     <div class="about-us-content mb-80">
-                        <h2>We're a Agency Team &amp; Digital Marketing</h2>
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing esed diam nonumy eirmod tempor invidunt ut labore et dolore magna.</p>
-                        <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet gubergren no sea takimata sanctus est Lorem ipsum dolor sit amet ipsumlor eut consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt labore et dolore magna
-                            liquyam erat.</p>
+                        <h2>Our &amp; Goal</h2>
+                        <p>Our goal is to please our client.</p>
+                        <p>There are no rules. We are very open with our client.We give you our best work. We will submit your application free of Errors. We will deliver your applications before the due date. And we also Bound up to provide After services.</p>
                         <a href="#" class="btn uza-btn btn-2 mt-4">Start Exploring</a>
                     </div>
                 </div>
@@ -227,11 +226,11 @@
                 <div class="col-12 col-lg-4">
                     <div class="single-service-area mb-80">
                         <!-- Service Icon -->
-                        <div class="service-icon">
-                            <i class="icon_cone_alt"></i>
+                        <div class="">
+                        <img src="./img/core-img/web.png" width="45%">
                         </div>
-                        <h5>Business Strategy</h5>
-                        <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet gubergren no sea takimata.</p>
+                        <h5>Web Applications</h5>
+                        <p>We Create Your Web Application using latest technologies with User Friendly Design and Connecting a Database</p>
                     </div>
                 </div>
 
@@ -239,11 +238,11 @@
                 <div class="col-12 col-lg-4">
                     <div class="single-service-area mb-80">
                         <!-- Service Icon -->
-                        <div class="service-icon">
-                            <i class="icon_piechart"></i>
+                        <div class="">
+                        <img src="./img/core-img/smartphone.webp" width="45%">
                         </div>
-                        <h5>Market Analytics</h5>
-                        <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet gubergren no sea takimata.</p>
+                        <h5>Android Applictions</h5>
+                        <p>We Create Your Android App using Latest Technologies With Supporting a Database</p>
                     </div>
                 </div>
 
@@ -251,11 +250,11 @@
                 <div class="col-12 col-lg-4">
                     <div class="single-service-area mb-80">
                         <!-- Service Icon -->
-                        <div class="service-icon">
-                            <i class="icon_easel"></i>
+                        <div class="">
+                        <img src="./img/core-img/desktop.png" width="45%">
                         </div>
-                        <h5>Marketing Social</h5>
-                        <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet gubergren no sea takimata.</p>
+                        <h5>Desktop Applications</h5>
+                        <p>We Create Destop Applications using Java , C# or C++ Qt framework</p>
                     </div>
                 </div>
 
@@ -288,7 +287,7 @@
                         <img src="./img/bg-img/3.jpg" alt="">
                         <!-- Overlay Effect -->
                         <div class="overlay-effect">
-                            <h4>Digital Marketing</h4>
+                            <h4>Blood Finder Android App with Hospital Dashboard</h4>
                             <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet gubergren no sea takimata sanctus est</p>
                         </div>
                         <!-- View More -->
@@ -302,7 +301,7 @@
                         <img src="./img/bg-img/4.jpg" alt="">
                         <!-- Overlay Effect -->
                         <div class="overlay-effect">
-                            <h4>Digital Marketing</h4>
+                            <h4>Ecommerse Website</h4>
                             <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet gubergren no sea takimata sanctus est</p>
                         </div>
                         <!-- View More -->
@@ -316,7 +315,7 @@
                         <img src="./img/bg-img/5.jpg" alt="">
                         <!-- Overlay Effect -->
                         <div class="overlay-effect">
-                            <h4>Digital Marketing</h4>
+                            <h4>Green Task Force Website</h4>
                             <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet gubergren no sea takimata sanctus est</p>
                         </div>
                         <!-- View More -->
@@ -330,7 +329,7 @@
                         <img src="./img/bg-img/6.jpg" alt="">
                         <!-- Overlay Effect -->
                         <div class="overlay-effect">
-                            <h4>Digital Marketing</h4>
+                            <h4>POS System</h4>
                             <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet gubergren no sea takimata sanctus est</p>
                         </div>
                         <!-- View More -->
@@ -344,7 +343,7 @@
                         <img src="./img/bg-img/5.jpg" alt="">
                         <!-- Overlay Effect -->
                         <div class="overlay-effect">
-                            <h4>Digital Marketing</h4>
+                            <h4>Paper, Tutorial Upload Download website</h4>
                             <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet gubergren no sea takimata sanctus est</p>
                         </div>
                         <!-- View More -->
@@ -358,7 +357,7 @@
                         <img src="./img/bg-img/6.jpg" alt="">
                         <!-- Overlay Effect -->
                         <div class="overlay-effect">
-                            <h4>Digital Marketing</h4>
+                            <h4>University Industry Management System</h4>
                             <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet gubergren no sea takimata sanctus est</p>
                         </div>
                         <!-- View More -->
@@ -375,6 +374,12 @@
         <div class="clients-feedback-area mt-80 section-padding-80 clearfix">
             <div class="container">
                 <div class="row">
+                <div class="col-12">
+                    <div class="section-heading text-center">
+                        <h2>Clients Feedbacks</h2>
+                        <p>Clients Can give their feedback for us</p>
+                    </div>
+                </div>
                     <div class="col-12">
                         <!-- Testimonial Slides -->
                         <div class="testimonial-slides owl-carousel">
@@ -483,112 +488,8 @@
             <img src="./img/core-img/curve-4.png" alt="">
         </div>
 
-        <!-- CTA Area Start -->
-        <div class="uza-cta-area section-padding-0-80">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-12 col-lg-8">
-                        <div class="cta-content mb-80">
-                            <h2>Interested in working with us?</h2>
-                            <h6>Hit the button below or give us a call!</h6>
-                        </div>
-                    </div>
 
-                    <div class="col-12 col-lg-4">
-                        <div class="cta-content mb-80">
-                            <div class="call-now-btn">
-                                <a href="#"><span>Call us now:</span> (+65) 1234 5678</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- CTA Area End -->
-
-        <div class="container">
-            <div class="row">
-                <!-- Section Heading -->
-                <div class="col-12">
-                    <div class="section-heading text-center">
-                        <h2>Our Latest Blogs</h2>
-                        <p>Hit the button below or give us a call!</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-
-                <!-- Single Blog Post -->
-                <div class="col-12 col-lg-4">
-                    <div class="single-blog-post bg-img mb-80" style="background-image: url(./img/bg-img/8.jpg);">
-                        <!-- Post Content -->
-                        <div class="post-content">
-                            <span class="post-date"><span>23</span> August, 2018</span>
-                            <a href="#" class="post-title">SEO: The Movie By Ignite Visibility</a>
-                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing esed diam nonumy eirmod tempor invidunt ut</p>
-                            <a href="#" class="read-more-btn">Read More <i class="arrow_carrot-2right"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Blog Post -->
-                <div class="col-12 col-lg-4">
-                    <div class="single-blog-post bg-img mb-80" style="background-image: url(./img/bg-img/9.jpg);">
-                        <!-- Post Content -->
-                        <div class="post-content">
-                            <span class="post-date"><span>13</span> December, 2018</span>
-                            <a href="#" class="post-title">What Curling Irons Are The Best Ones</a>
-                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing esed diam nonumy eirmod tempor invidunt ut</p>
-                            <a href="#" class="read-more-btn">Read More <i class="arrow_carrot-2right"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Blog Post -->
-                <div class="col-12 col-lg-4">
-                    <div class="single-blog-post bg-img mb-80" style="background-image: url(./img/bg-img/10.jpg);">
-                        <!-- Post Content -->
-                        <div class="post-content">
-                            <span class="post-date"><span>08</span> July, 2018</span>
-                            <a href="#" class="post-title">Amazon REV Workshop: Road to Seattle</a>
-                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing esed diam nonumy eirmod tempor invidunt ut</p>
-                            <a href="#" class="read-more-btn">Read More <i class="arrow_carrot-2right"></i></a>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section>
-    <!-- ***** Blog Area End ***** -->
-
-    <!-- ***** Newsletter Area Start ***** -->
-    <section class="uza-newsletter-area">
-        <div class="container">
-            <div class="row align-items-center justify-content-between">
-                <!-- Newsletter Content -->
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="nl-content mb-80">
-                        <h2>Subscribe to our Newsletter</h2>
-                        <p>Subscribe our newsletter gor get notification about new updates, etc...</p>
-                    </div>
-                </div>
-                <!-- Newsletter Form -->
-                <div class="col-12 col-md-6 col-lg-5">
-                    <div class="nl-form mb-80">
-                        <form action="#" method="post">
-                            <input type="email" name="nl-email" value="" placeholder="Your Email">
-                            <button type="submit">Subscribe</button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-            <!-- Border Bottom -->
-            <div class="border-line"></div>
-        </div>
-    </section>
-    <!-- ***** Newsletter Area End ***** -->
+ 
 
     <!-- ***** Footer Area Start ***** -->
     <footer class="footer-area section-padding-80-0">
@@ -603,11 +504,11 @@
 
                         <!-- Footer Content -->
                         <div class="footer-content mb-15">
-                            <h3>(+65) 1234 5678</h3>
-                            <p>40 Baria Sreet 13/2 NY City, US <br> hello.colorlib@gmail.com</p>
+                            <h3>(+94) 771544951</h3>
+                            <p>Colombo, Sri Lanka <br>softgenlk@gmail.com</p>
                         </div>
-                        <p class="mb-0">Mon - Fri: 9:00 - 19:00 <br>
-                            Closed on Weekends</p>
+                        <p class="mb-0">24 hour Service <br>
+                        </p>
                     </div>
                 </div>
 
@@ -621,10 +522,8 @@
                         <nav>
                             <ul class="our-link">
                                 <li><a href="#">About Us</a></li>
-                                <li><a href="#">Blog</a></li>
                                 <li><a href="#">Contact Us</a></li>
-                                <li><a href="#">Forum Registeration</a></li>
-                                <li><a href="#">Forum Sign In</a></li>
+                                <li><a href="#">Give Feedback</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -641,8 +540,6 @@
                             <ul class="our-link">
                                 <li><a href="#">Customer Support</a></li>
                                 <li><a href="#">Privacy</a></li>
-                                <li><a href="#">Media &amp; Press</a></li>
-                                <li><a href="#">Our Team</a></li>
                                 <li><a href="#">Contact</a></li>
                             </ul>
                         </nav>
@@ -654,18 +551,18 @@
                     <div class="single-footer-widget mb-80">
                         <!-- Widget Title -->
                         <h4 class="widget-title">About Us</h4>
-                        <p>Integer vehicula mauris libero, at molestie eros imperdiet sit amet.</p>
+                        <p>We are software development company.</p>
 
                         <!-- Copywrite Text -->
                         <div class="copywrite-text mb-30">
-                            <p>&copy; Copyright 2018 <a href="#">Colorlib</a>.</p>
+                            <p>&copy; Copyright 2020 <a href="#">SoftGen LK</a>.</p>
                         </div>
 
                         <!-- Social Info -->
                         <div class="footer-social-info">
-                            <a href="#" class="facebook" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a>
+                            <a href="https://www.facebook.com/softGenLk" class="facebook" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a>
                             <a href="#" class="twitter" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a>
-                            <a href="#" class="pinterest" data-toggle="tooltip" data-placement="top" title="Pinterest"><i class="fa fa-pinterest"></i></a>
+                            <a href="#" class="twitter" data-toggle="tooltip" data-placement="top"  title="Fiverr"><img src="./img/core-img/fiverr.png" style="background-color:white;" alt=""></a>
                             <a href="#" class="instagram" data-toggle="tooltip" data-placement="top" title="Instagram"><i class="fa fa-instagram"></i></a>
                             <a href="#" class="youtube" data-toggle="tooltip" data-placement="top" title="YouTube"><i class="fa fa-youtube-play"></i></a>
                         </div>
@@ -675,10 +572,9 @@
             </div>
 
  <div class="row" style="margin-bottom: 30px;">
-                
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | <i class="fa fa-mail-o" aria-hidden="true"></i> by <b>  <a href="#" target="_blank"> SoftGen LK</a></br>
+
             </div>
 
         </div>
